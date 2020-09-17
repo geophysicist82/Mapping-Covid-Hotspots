@@ -34,46 +34,46 @@ In the future, we would like to be able to scrape more tweets, and also account 
 
  ## Data Directory
 |__ dana_data
-| |__ Abilene_data.csv
-| |__ Amarillo_data.csv
-| |__ El_Paso_data.csv
-| |__ Laredo_data.csv
-| |__ Odessa_data.csv
-| |__ dana-clean-eda.ipynb
-| |__ dana-scrape-data.ipynb
-| |__ sample-heat-map.xlsx
-|__ data
-| |__ file names here
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-|__ jenny
-| |__ file names here
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-|__ zak_folder
-| |__ file names here
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-|__ emmanuel_folder
-| |__ file names here
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-| |__ 
-|__ any_other_folders
-|__ any_other_files_that_dont_get_put_in_a_folder
-|__ POWERPOINT ONCE SAVED.pdf
-|__ README.md
+| |__ Abilene_data.csv  
+| |__ Amarillo_data.csv  
+| |__ El_Paso_data.csv  
+| |__ Laredo_data.csv  
+| |__ Odessa_data.csv  
+| |__ dana-clean-eda.ipynb  
+| |__ dana-scrape-data.ipynb  
+| |__ sample-heat-map.xlsx  
+|__ data  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ jenny  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ zak_folder  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ emmanuel_folder  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ any_other_folders  
+|__ any_other_files_that_dont_get_put_in_a_folder  
+|__ POWERPOINT ONCE SAVED.pdf  
+|__ README.md  
 
  ## References
 
