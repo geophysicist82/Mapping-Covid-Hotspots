@@ -41,4 +41,6 @@ In the future, we would like to be able to scrape more tweets, and also account 
 [Tableau](https://public.tableau.com)  
 [Texas Metro Areas](https://en.wikipedia.org/wiki/List_of_Texas_metropolitan_areas)  
 [GPS Coordinates Generator](https://www.gps-coordinates.net/)  
-[Actual Texas COVID19 Case Heatmap](https://www.google.com/search?q=covid+cases+in+texas+by+city&rlz=1C1CHBF_enUS906US906&oq=covid+cases+in+texas+by+&aqs=chrome.2.0j69i57j0l6.8686j0j9&sourceid=chrome&ie=UTF-8)
+[Actual Texas COVID19 Case Heatmap](https://public.tableau.com/profile/emmanuel.akindele#!/vizhome/TexasCovid/Sheet2?publish=yes
+)  
+[NY Times Covid Case Data] (https://github.com/nytimes/covid-19-data )
