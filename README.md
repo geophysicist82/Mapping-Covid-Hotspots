@@ -63,7 +63,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__   
 | |__   
 | |__   
-|__ emmanuel_folder  
+|__ emmanuel  
 | |__ file names here  
 | |__   
 | |__   
@@ -72,7 +72,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__   
 |__ any_other_folders  
 |__ any_other_files_that_dont_get_put_in_a_folder  
-|__ POWERPOINT ONCE SAVED.pdf  
+|__ Heat Mapping Covid Cases.pdf  
 |__ README.md  
 
  ## References
