@@ -58,7 +58,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ Harlingen_data.csv  
 | |__ SanAntonio_data.csv  
 | |__ SanAntonio_noquery_data.csv  
-| |__ Kerrville Fredericksburg_data.csv 
+| |__ Kerrville Fredericksburg_data.csv   
 | |__ Lufkin_data.csv
 
 |__ zak_folder  
