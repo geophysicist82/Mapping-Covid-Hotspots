@@ -64,15 +64,15 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__   
 | |__   
 |__ emmanuel  
-| |__ Data EDA.ipynb
-| |__ Get_Data.ipynb
-| |__ beaumont_data.csv
-| |__ college_station_bryan_data.csv
-| |__ houston_data.csv  
+| |__ Data EDA.ipynb  
+| |__ Get_Data.ipynb  
+| |__ beaumont_data.csv  
+| |__ college_station_bryan_data.csv. 
+| |__ houston_data.csv    
 | |__ killeen_data.csv  
-| |__ midland_data.csv
-| |__ nacodgoches__data.csv
-| |__ texarkana_data.csv
+| |__ midland_data.csv  
+| |__ nacodgoches__data.csv  
+| |__ texarkana_data.csv  
 |__ any_other_folders  
 |__ any_other_files_that_dont_get_put_in_a_folder  
 |__ Heat Mapping Covid Cases.pdf  
