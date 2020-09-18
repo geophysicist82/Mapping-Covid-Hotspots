@@ -67,7 +67,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ Data EDA.ipynb  
 | |__ Get_Data.ipynb  
 | |__ beaumont_data.csv  
-| |__ college_station_bryan_data.csv. 
+| |__ college_station_bryan_data.csv  
 | |__ houston_data.csv    
 | |__ killeen_data.csv  
 | |__ midland_data.csv  
