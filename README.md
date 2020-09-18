@@ -33,7 +33,48 @@ The tweets we pulled were random, and may not have had the most representative d
 In the future, we would like to be able to scrape more tweets, and also account for other languages as well. We did not have the fluency or knowledge of other languages to recognize mentions of COVID19 in tweets written in languages other than English. We would like to collect information from other states as well to increase the expanse of the heat map. Lastly, we would like to continue working with this data to create a predictive model that can use Natural Language Processing to predict if the author of a tweet has a confirmed case of COVID19 based on the tweet.
 
  ## Data Directory
-*add when everything is done and cleaned up*
+|__ dana_data
+| |__ Abilene_data.csv  
+| |__ Amarillo_data.csv  
+| |__ El_Paso_data.csv  
+| |__ Laredo_data.csv  
+| |__ Odessa_data.csv  
+| |__ dana-clean-eda.ipynb  
+| |__ dana-scrape-data.ipynb  
+| |__ sample-heat-map.xlsx  
+|__ data  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ jenny  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ zak_folder  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ emmanuel_folder  
+| |__ file names here  
+| |__   
+| |__   
+| |__   
+| |__   
+| |__   
+|__ any_other_folders  
+|__ any_other_files_that_dont_get_put_in_a_folder  
+|__ POWERPOINT ONCE SAVED.pdf  
+|__ README.md  
+
  ## References
 
 [GetOldTweets3](https://github.com/Mottl/GetOldTweets3)  
@@ -43,4 +84,4 @@ In the future, we would like to be able to scrape more tweets, and also account 
 [GPS Coordinates Generator](https://www.gps-coordinates.net/)  
 [Actual Texas COVID19 Case Heatmap](https://public.tableau.com/profile/emmanuel.akindele#!/vizhome/TexasCovid/Sheet2?publish=yes
 )  
-[NY Times Covid Case Data] (https://github.com/nytimes/covid-19-data )
+[NY Times Covid Case Data](https://github.com/nytimes/covid-19-data )
