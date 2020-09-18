@@ -44,9 +44,9 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ sample-heat-map.xlsx  
   
 |__ jenny  
-| |__ jenny_cities_EDA.ipynb
-| |__ Odessa_data.csv
-| |__ Austin_noquery_data.csv  
+| |__ jenny_cities_EDA.ipynb  
+| |__ Odessa_data.csv. 
+| |__ Austin_noquery_data.csv   
 | |__ Brownsville_data.csv  
 | |__ Corpus_noquery_data.csv  
 | |__ Rockport_data.csv  
