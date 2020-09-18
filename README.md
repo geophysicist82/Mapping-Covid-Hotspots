@@ -42,13 +42,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ dana-clean-eda.ipynb  
 | |__ dana-scrape-data.ipynb  
 | |__ sample-heat-map.xlsx  
-|__ data  
-| |__ file names here  
-| |__   
-| |__   
-| |__   
-| |__   
-| |__   
+  
 |__ jenny  
 | |__ jenny_cities_EDA.ipynb
 | |__ Odessa_data.csv
@@ -66,7 +60,8 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ SanAntonio_noquery_data.csv  
 | |__ Kerrville Fredericksburg_data.csv 
 | |__ Wichita Falls_data.csv  
-| |__ Lufkin_data.csv  
+| |__ Lufkin_data.csv
+
 |__ zak_folder  
 | |__ city_tweets  
 | |__ zak_data
@@ -74,7 +69,8 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ 02_compile_csv.ipynb 
 | |__ 03_modeling.ipynb  
 | |__ zak.ipynb  
-|__ emmanuel  
+|__ emmanuel
+
 | |__ Data EDA.ipynb  
 | |__ Get_Data.ipynb  
 | |__ beaumont_data.csv  
