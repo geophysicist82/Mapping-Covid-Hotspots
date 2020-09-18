@@ -45,8 +45,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
   
 |__ jenny  
 | |__ jenny_cities_EDA.ipynb  
-| |__ Odessa_data.csv. 
-
+| |__ Odessa_data.csv    
 | |__ Austin_noquery_data.csv   
 | |__ Brownsville_data.csv  
 | |__ Corpus_noquery_data.csv  
@@ -60,7 +59,6 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ SanAntonio_data.csv  
 | |__ SanAntonio_noquery_data.csv  
 | |__ Kerrville Fredericksburg_data.csv 
-  
 | |__ Lufkin_data.csv
 
 |__ zak_folder  
