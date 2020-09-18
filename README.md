@@ -50,12 +50,23 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__   
 | |__   
 |__ jenny  
-| |__ file names here  
-| |__   
-| |__   
-| |__   
-| |__   
-| |__   
+| |__ jenny_cities_EDA.ipynb
+| |__ Odessa_data.csv
+| |__ Austin_noquery_data.csv  
+| |__ Brownsville_data.csv  
+| |__ Corpus_noquery_data.csv  
+| |__ Rockport_data.csv  
+| |__ Dalhart_data.csv	  
+| |__ San Angelo_data.csv  
+| |__ Del Rio_data.csv  
+| |__ San Marcos New Braunfels Seguin_data.csv  
+| |__ Eagle Pass_data.csv  
+| |__ Harlingen_data.csv  
+| |__ SanAntonio_data.csv  
+| |__ SanAntonio_noquery_data.csv  
+| |__ Kerrville Fredericksburg_data.csv 
+| |__ Wichita Falls_data.csv  
+| |__ Lufkin_data.csv  
 |__ zak_folder  
 | |__ city_tweets  
 | |__ zak_data
