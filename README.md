@@ -33,6 +33,11 @@ The tweets we pulled were random, and may not have had the most representative d
 In the future, we would like to be able to scrape more tweets, and also account for other languages as well. We did not have the fluency or knowledge of other languages to recognize mentions of COVID19 in tweets written in languages other than English. We would like to collect information from other states as well to increase the expanse of the heat map. Lastly, we would like to continue working with this data to create a predictive model that can use Natural Language Processing to predict if the author of a tweet has a confirmed case of COVID19 based on the tweet.
 
  ## Data Directory
+ |__ code_rough_drafts
+| |__ getoldtweets.py  
+| |__ jenny-dana-work.ipynb  
+| |__ twitter3.py  
+
 |__ dana_data
 | |__ Abilene_data.csv  
 | |__ Amarillo_data.csv  
@@ -42,9 +47,19 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ dana-clean-eda.ipynb  
 | |__ dana-scrape-data.ipynb  
 | |__ sample-heat-map.xlsx  
-  
-|__ jenny  
-| |__ jenny_cities_EDA.ipynb  
+ 
+|__ emmanuel
+| |__ Data EDA.ipynb  
+| |__ Get_Data.ipynb  
+| |__ beaumont_data.csv  
+| |__ college_station_bryan_data.csv  
+| |__ houston_data.csv    
+| |__ killeen_data.csv  
+| |__ midland_data.csv  
+| |__ nacodgoches__data.csv  
+| |__ texarkana_data.csv  
+ 
+|__ jenny   
 | |__ Odessa_data.csv    
 | |__ Austin_noquery_data.csv   
 | |__ Brownsville_data.csv  
@@ -60,6 +75,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ SanAntonio_noquery_data.csv  
 | |__ Kerrville Fredericksburg_data.csv   
 | |__ Lufkin_data.csv
+| |__ jenny_cities_EDA.ipynb 
 
 |__ zak_folder  
 | |__ city_tweets  
@@ -68,19 +84,7 @@ In the future, we would like to be able to scrape more tweets, and also account 
 | |__ 02_compile_csv.ipynb 
 | |__ 03_modeling.ipynb  
 | |__ zak.ipynb  
-|__ emmanuel
-
-| |__ Data EDA.ipynb  
-| |__ Get_Data.ipynb  
-| |__ beaumont_data.csv  
-| |__ college_station_bryan_data.csv  
-| |__ houston_data.csv    
-| |__ killeen_data.csv  
-| |__ midland_data.csv  
-| |__ nacodgoches__data.csv  
-| |__ texarkana_data.csv  
-|__ any_other_folders  
-|__ any_other_files_that_dont_get_put_in_a_folder  
+  
 |__ Heat Mapping Covid Cases.pdf  
 |__ README.md  
 
